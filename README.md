@@ -17,7 +17,7 @@ MEAN is a boilerplate that provides a nice starting point for [MongoDB](http://w
 $ npm install -g bower
 ```
 
-### Optional [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+### Optional [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/abhisekp/House-Rent-v2.svg)](https://greenkeeper.io/)
 * Grunt - Download and Install [Grunt](http://gruntjs.com).
 ```
 $ npm install -g grunt-cli
