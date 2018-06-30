@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "packages/access/package.json",
+        "packages/articles/package.json",
+        "packages/system/package.json",
+        "packages/users/package.json"
+      ]
+    }
+  }
+}
